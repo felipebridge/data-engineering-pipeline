@@ -1,0 +1,13 @@
+{
+  "exact": [
+    "src/etl_load_staging.py"
+  ],
+  "prefixes": [
+    "sql/",
+    "docker/"
+  ],
+  "patterns": [
+    "\\.env$",
+    "\\.sql$"
+  ]
+}
